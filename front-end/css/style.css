@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+}
+
+/* Blue sidebar */
+#leftNav {
+    background-color: blue;
+    height: 100% ;
+}
+
+.nav-pills .nav-link.active {
+    background-color: black !important;
+    color: white !important;
+}
